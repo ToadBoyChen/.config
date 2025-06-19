@@ -1,0 +1,19 @@
+font-family = "JetBrains Mono"
+font-size = 9
+theme = "Dracula+"
+
+background = "#13121D"
+foreground = "#FFFFE9"
+selection-background = "#1C1E7A"
+selection-foreground = "#DED0D0"
+
+cursor-color = "#3C81F3"
+cursor-text = "#61366D"
+cursor-style = "block_hollow"
+cursor-style-blink = false
+
+window-padding-x = 20
+window-padding-y = 10
+window-titlebar-background = "#3BDBDB"
+window-titlebar-foreground = "#505A5A"
+window-decoration = false

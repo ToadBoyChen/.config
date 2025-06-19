@@ -1,0 +1,5 @@
+[Global]
+timeFormat=24Hour
+
+[TimerPresets]
+timerPresets=[]

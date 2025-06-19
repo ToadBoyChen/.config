@@ -1,0 +1,100 @@
+# VS Code / Code - OSS
+Code/
+Code\ -\ OSS/
+
+# Chromium & browser crash data
+chromium/
+
+# Discord cache, logs, crashpad
+discord/
+
+# LibreOffice runtime
+libreoffice/
+
+# Logs
+**/logs/
+**/*.log
+
+# Crashpad & crash reports
+**/Crashpad/
+**/Crash\ Reports/
+
+# Caches
+**/Cache/
+**/Cache_Data/
+**/Code\ Cache/
+**/blob_storage/
+**/GPUCache/
+**/DawnGraphiteCache/
+**/DawnWebGPUCache/
+**/Shared Dictionary/
+**/Local Storage/
+**/Session Storage/
+**/Service Worker/
+**/WebStorage/
+**/SharedStorage/
+
+# Temp runtime artifacts
+**/*.lock
+**/*.shm
+**/*.wal
+**/QuotaManager*
+**/TransportSecurity
+**/Trust Tokens*
+
+# Obsidian session/local data
+obsidian/
+
+# Electron runtime
+Electron/
+
+# PulseAudio runtime data
+pulse/
+
+# Pamac settings (optional)
+pamac/
+
+# Spotify cache
+spotify/
+
+# Systemd user targets (redundant in dotfiles)
+systemd/user/
+
+# Trash
+trashrc
+ktrashrc
+
+# Fastfetch assets
+fastfetch/*.png
+fastfetch/*.jsonc
+
+# Waypaper history
+waypaper/config.ini
+
+# Yay AUR helper cache
+yay/
+
+# Nautilus session files
+nautilus/
+
+# Dconf binary blob (don't track unless config-heavy)
+dconf/user
+
+# Dolphin session
+session/
+
+# GNOME session
+gnome-session/
+
+# Fonts auto-generated
+fontconfig/fonts.conf
+
+
+~/.bash_history
+~/.zsh_history
+~/.gitconfig
+~/.ssh/
+~/.gnupg/
+~/.netrc
+~/.npmrc
+~/.docker/config.json

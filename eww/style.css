@@ -1,0 +1,8 @@
+#title-window {
+  background-color: rgba(30, 30, 30, 0.8);
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: white;
+  font-size: 14px;
+  border-radius: 5px;
+}
